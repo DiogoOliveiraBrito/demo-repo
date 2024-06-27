@@ -8,7 +8,7 @@ Aprendendo git, um passo de cada vez
 
 1- Open index.html in your browser.
 
-2- Contedo apenas do branch main
+
 
 
 
